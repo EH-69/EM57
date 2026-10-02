@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/EH-69/EM57/refs/heads/main/snake.yml" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/EH-69/EM57/refs/heads/main/stats.yml" alt="Snake animation" />
 
 ###
 
